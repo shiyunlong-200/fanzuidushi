@@ -16,4 +16,4 @@ public class App
     	 SpringApplication.run(App.class);
     }
 }
-//这是上传到github上部署到jenkins上的实验项目，接下来的情况我也不清楚
+//这是上传到github上部署到jenkins上的实验项目，接下来的情况我也不清楚，这也不是我能掌握的情况
